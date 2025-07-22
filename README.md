@@ -16,7 +16,7 @@ Olá! Me chamo Inaldo e aqui você vai entender um pouco sobre mim.
 ![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk&logoColor=f89820)
 ![C](https://img.shields.io/badge/C-black?style=for-the-badge&logo=c&logoColor=)
 ![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3&logoColor=%23264de4)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-black?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-black?style=for-the-badge&logo=springboot&logoColor=green)
 
 
 
